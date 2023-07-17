@@ -1,6 +1,6 @@
 # Yapılacaklar Listesi Uygulaması
 
-<img src="/yapılacaklar-listesi/gif/gif.gif">
+<img src="/gif/gif.gif">
 
 - Bu, React-Redux kullanılarak geliştirilmiş basit bir yapılacaklar listesi uygulamasıdır.
 - Uygulama, kullanıcıların yapılacak görevleri eklemesine, işaretlemesine ve tamamlananları temizlemesine olanak sağlar.
